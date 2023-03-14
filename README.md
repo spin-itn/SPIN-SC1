@@ -1,7 +1,7 @@
 # SPIN-SC1
 SPIN Short Course 1 - Computational Seismology
 
-Jupyter notebooks and slides or the SPIN Short Course in Computational Seismology
+Jupyter notebooks and slides for the SPIN Short Course in Computational Seismology
 
 You can run all the Jupyter notebooks here by clicking on the *mybinder* link below:
 
